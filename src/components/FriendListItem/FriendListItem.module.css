@@ -1,0 +1,43 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    border: 1px solid #8b8686;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, .12), 0px 1px 1px rgba(0, 0, 0, .14), 0px 2px 1px rgba(0, 0, 0, .2);
+    padding-top: 15px;
+    background-color: rgb(237, 229, 220);
+
+}
+
+.avatar{
+    padding-left: 50px;
+}
+
+.name{
+        
+            font-style: normal;
+            font-weight: 500;
+            font-size: 25px;
+            line-height: 1.18;
+            letter-spacing: .03em;
+            color: rgb(16, 16, 16);
+            
+}
+
+
+.online{
+    font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 1.18;
+        letter-spacing: .03em;
+        color: rgb(8, 84, 26);
+}
+.offline{
+    font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 1.18;
+        letter-spacing: .03em;
+        color: rgb(236, 6, 6);
+}

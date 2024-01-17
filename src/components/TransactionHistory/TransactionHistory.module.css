@@ -1,0 +1,25 @@
+.TransactionHistory{
+    margin-left: 50px;
+    width: 100%;
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 18px;
+    border-collapse: collapse;
+    text-align: center;
+}
+.TransactionHistory th,
+.TransactionHistory td:first-child{
+    
+        background: #447aa9;
+            color: white;
+            padding: 10px 20px;
+    
+}
+.TransactionHistory th, 
+.TransactionHistory td {
+border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+}
+.TransactionHistory td{
+    background: #75c9f0;
+}

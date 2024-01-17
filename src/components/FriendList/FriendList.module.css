@@ -1,0 +1,11 @@
+.FriendList{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+    padding: 0;
+    width: 100%;
+}
